@@ -1,0 +1,4 @@
+
+#reventando python...
+
+- []... con listas?
